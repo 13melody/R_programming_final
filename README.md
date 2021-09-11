@@ -17,5 +17,5 @@ In this project, we explore bike-sharing systems that make available their trip 
 ![v2osk-1Z2niiBPg5A-unsplash](https://user-images.githubusercontent.com/90213004/132956526-3018fb78-662f-472d-b541-5d191b718934.jpg)
 
 ### Project link: 
-[Link to GIT Command Doc](https://docs.google.com/document/d/1PEYXOF467oTbyDIG5-SxxvDjRdikoeDPsG8IMrNYbfI/edit#)
+[GIT Command Doc](https://docs.google.com/document/d/1PEYXOF467oTbyDIG5-SxxvDjRdikoeDPsG8IMrNYbfI/edit#)
 
